@@ -45,3 +45,6 @@ Ces deux graphiques peuvent être filtrer en fonction du code postal, qui peut �
 l’utilisateur dans une liste déroulante. 
 Un petit bouton situé en haut de l’application, sous le titre, permet de rafraîchir l’application. Ainsi, le 
 zoom sur la carte et tous les filtres se remettent à leur état initial.
+
+
+Attention à bien téléchargé le fichier df_code_post.csv pour le bon fonctionnement du géocodage et donc des fonctionnalités de l'application.
